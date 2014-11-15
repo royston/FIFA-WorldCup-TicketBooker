@@ -1,10 +1,10 @@
 # FIFA-WorldCup-TicketBooker
 ==========================
 
-The script I wrote to automate checking the FIFA ticketing website to notify IFF and when specific tickets became available.
+The script I wrote to automate checking the FIFA ticketing website to notify IFF and when specific tickets become available.
 
 ### Timeline:
-- In May, 2014, I decide that I have pro-crastinated enough and should after all, go to the World Cup in Brazil.
+- In May, 2014, one months before the start of the world cup, I decide that I have pro-crastinated enough and should after all, go to the World Cup in Brazil.
 
 ### The problem:
 - I need to get a ticket to some decent matches.
